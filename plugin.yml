@@ -1,0 +1,4 @@
+﻿name: LibEnchants
+main: com.fyxridd.lib.enchants.EnchantsPlugin
+version: 0.1.0
+depend: [LibCore]
